@@ -1,0 +1,21 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+    "CODIGO": "CODIGO"
+  },
+  "geometryType": "esriGeometryPolygon",
+  "spatialReference": {
+    "wkid": 4326,
+    "latestWkid": 4326
+  },
+  "fields": [
+    
+    {
+      "name": "CODIGO",
+      "type": "esriFieldTypeString",
+      "alias": "CODIGO",
+      "length": 5
+    }
+  ],
+  "features": []
+}
